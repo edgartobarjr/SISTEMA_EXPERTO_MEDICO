@@ -1,0 +1,31 @@
+conocimiento('gripe',
+['le duele la garganta', 'dificultad para hablar',
+'garganta rasposa','tiene flema','tiene moqueo']).
+
+conocimiento('paperas',
+['tiene fiebre', 'tiene perdida de apetito',
+'tiene dolor de oido','dificultad para hablar']).
+
+conocimiento('sarampion',
+['tiene fiebre', 'tiene tos',
+'tiene moqueo','tiene puntos blancos en la boca']).
+
+conocimiento('anemia',
+['tiene dolor de cabeza', 'tiene palidez',
+'tiene mareo', 'tiene dolor en el pecho']).
+
+conocimiento('varicela',
+['tiene dolor de cabeza', 'tiene cansancio',
+'tiene perdida de apetito','tiene fiebre']).
+
+conocimiento('dengue',
+['tiene dolor muscular',
+'tiene fiebre', 'tiene tos', 'ha vomitado', 'tiene escalofrios', 'tiene dolor de cabeza']).
+
+conocimiento('diarrea',
+['tiene perdida de apetito', 'ha vomitado',
+'dolor abdominal','tiene fiebre']).
+
+conocimiento('gastritis',
+['dolor abdominal', 'ha vomitado',
+'tiene perdida de apetito','tiene acidez']).
